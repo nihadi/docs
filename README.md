@@ -11,6 +11,7 @@ The innovation focuses on developing a smart centralized system to control diffe
 *	This systems aims for mobile first and cloud first implementation.
 *	It integrates pest management system by observing, inspecting, and identifying certain trends in the pests and pesticides. It keeps the track record.
 *	Last but not the least, it proposes high yielding plans and best crop management plans even under disasters. 
+
 3	FIELDS ARE THE NEW OFFICES AND DATA IS DRIVING THE TRACTORS
 -------------------------------------------------------------
 We are trying to use the emerging Cloud based technologies in AI, machine learning and big data to solve important problems as well as to get the problem notified to the related person in real time. This system allows farmers to monitor and maintain the quality of their farms by sitting at their home just using simple services like SMS in case there is no internet connectivity present in the area or by using the app built for android phones. The hardware is also sending data of the farm to the agricultural scientists who can use it to make data driven decisions. Integrations with the other meteorological information helps to offer the best advice for irrigation. This system can also be used to inform the farmers in a particular area in case of an agricultural outbreak risk in that area. The other solutions include animal breeding and maintaining the data informing the farmers about the required medication needed for the cattle. Mainly focuses on reliable, safety, interoperable, low cost implementation. 
