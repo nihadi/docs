@@ -1,7 +1,7 @@
 FarmMind Technologies
 =====================
 1	PROBLEM STATEMENT
--------------------
+
 This smart centralized system will help farmers to take a step into precision agriculture being monitored by wireless sensors in and around their farms. This covers problems like irrigation management, crop maintenance, soil fertility maintenance, crop yield improvement, pesticide management in compliance with good agricultural practices. 
 2	WORK FLOW 
 -----------
